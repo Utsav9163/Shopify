@@ -22,7 +22,7 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 ## How it looks 📷
 
 <div align="center">
-    <img src="file:///C:/Users/Windows/Pictures/Screenshot%202024-10-03%20011702.png">
+    <img src="![Screenshot 2024-10-03 011702](https://github.com/user-attachments/assets/011f7bba-b52b-409e-9952-5931dc18b7b3)">
 </div>
 
 <br>
