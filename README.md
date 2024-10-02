@@ -20,42 +20,7 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 * `jQuery`
 
 ## How it looks 📷
-
-<div align="center">
-    <img src="![Screenshot 2024-10-03 011702](https://github.com/user-attachments/assets/011f7bba-b52b-409e-9952-5931dc18b7b3)">
-</div>
-
-<br>
-<br>
-
-<div align="center">
-    <img src="">
-</div>
-<br>
-<br>
-
-<div align="center">
-    <img src="">
-</div>
-<br>
-
-<br>
-<br>
-
-<div align="center">
-    <img src="">
-</div>
-<br>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="">
-</div>
-
-<br>
-<hr>
+![Screenshot 2024-10-03 011702](https://github.com/user-attachments/assets/011f7bba-b52b-409e-9952-5931dc18b7b3)
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
