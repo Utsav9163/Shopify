@@ -20,6 +20,7 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 * `jQuery`
 
 ## How it looks 📷
+
 ![Screenshot 2024-10-03 011702](https://github.com/user-attachments/assets/011f7bba-b52b-409e-9952-5931dc18b7b3)
 
 
@@ -29,8 +30,11 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 
 ![Screenshot 2024-10-03 011811](https://github.com/user-attachments/assets/f86d17ca-6892-405a-a458-40fa60e8c2b0)
 
+![Screenshot 2024-10-03 011829](https://github.com/user-attachments/assets/5a4ef6e9-8602-45b7-b59a-675f8bb5070e)
+
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/utsav-kumar-gupta-3986a228a" target="_blank">LinkedIn</a>
   </p>
+  
