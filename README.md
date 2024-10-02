@@ -29,21 +29,13 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 <br>
 
 <div align="center">
-    <img src="file:///C:/Users/Windows/Pictures/Screenshot%202024-10-03%20011702.png">
+    <img src="">
 </div>
 <br>
 <br>
 
 <div align="center">
-    <img src="file:///C:/Users/Windows/Pictures/Screenshot%202024-10-03%20011702.png">
-</div>
-<br>
-
-<br>
-<br>
-
-<div align="center">
-    <img src="file:///C:/Users/Windows/Pictures/Screenshot%202024-10-03%20011702.png">
+    <img src="">
 </div>
 <br>
 
@@ -51,7 +43,15 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 <br>
 
 <div align="center">
-  <img src="file:///C:/Users/Windows/Pictures/Screenshot%202024-10-03%20011702.png">
+    <img src="">
+</div>
+<br>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="">
 </div>
 
 <br>
