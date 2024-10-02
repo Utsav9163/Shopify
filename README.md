@@ -24,6 +24,10 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 
 
 ![Screenshot 2024-10-03 011900](https://github.com/user-attachments/assets/0799d655-48e6-4a6a-99a6-f81c91339a40)
+
+![Screenshot 2024-10-03 011735](https://github.com/user-attachments/assets/dd25ac84-f5f7-46a9-a533-86eb641a7e18)
+
+
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
